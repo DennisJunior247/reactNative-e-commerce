@@ -6,7 +6,8 @@ This project was created to exercise the full abilty of javascript by creating a
 In the project directory, you can run:
 
 ### `yarn`
-To install all dependcies
+cd to client to install all dependcies
+cd to server to install all dependcies
 
 ### `react native run andriod`
 ### `yarn start`
